@@ -1,74 +1,64 @@
 const logotext = "JOHN";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Yanuar Nur Alfian",
+    description: "I’m Yanuar Nur Alfian game developer _ Full stack devloper,currently Mahasiswa In UNTAG SURABAYA",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Yanuar Nur Alfian",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
+        second: "I create game alone",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Halo, saya Yanuar Nur Alfian, seorang Game Designer dan Developer dengan keahlian dalam berbagai teknologi pengembangan modern. Saya berpengalaman menggunakan Unreal Engine untuk menciptakan pengalaman bermain game yang imersif dan menarik. Selain itu, saya juga menguasai FlutterFlow, React, dan Flutter untuk membangun aplikasi multiplatform dengan performa tinggi dan desain yang menarik.",
+    your_img_url: "https://i.ibb.co.com/XCctZtx/sinyovlo-433100425-3749703278681463-3814499060920525194-n.jpg",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "Hello! My name is Yanuar Nur Alfian, a passionate and creative Game Designer with expertise in cutting-edge technologies and tools. I thrive on creating immersive digital experiences and innovative solutions in the world of design and development.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Design UI/UX Web Developer",
+        where: "ProjectMioedu",
+        date: "2024",
     },
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
+        name: "Unreal Engine",
+        value: 95,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "Flutter",
+        value: 75,
     },
     {
         name: "Javascript",
-        value: 80,
+        value: 70,
     },
     {
         name: "React",
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "FlutterFlow",
         value: 85,
     },
 ];
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Flutter,FlutterFlow,React.",
+    },
+    {
+        title: "Unreal Engine",
+        description: "Game Animation,DataBase Server Game,Graphic Optimise",
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "FlutterFlow",
     },
 ];
 
@@ -136,8 +126,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "yanuaran8@gmail.com",
+    YOUR_FONE: "083849037006",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/

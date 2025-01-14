@@ -1,38 +1,5 @@
 ### Description
 
-A simple portfolio template for developer/designers built with React. 
+"Halo, saya Yanuar Nur Alfian, seorang Game Designer dan Developer dengan keahlian dalam berbagai teknologi pengembangan modern. Saya berpengalaman menggunakan Unreal Engine untuk menciptakan pengalaman bermain game yang imersif dan menarik. Selain itu, saya juga menguasai FlutterFlow, React, dan Flutter untuk membangun aplikasi multiplatform dengan performa tinggi dan desain yang menarik.
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
-
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
-
-### Features
-
-- Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
-- React-Bootstrap
-- Edit Content From One Place
-
-### Setup
-
-Get the code
-
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
-
-<pre>yarn install</pre>
-
-
-Start the server
-
-<pre>yarn start</pre>
-
-### More
-
-Modify pages content in  `src/content_option.js`.
-
-### Thanks
-
-If you like this portfolio template don't forget give it a ⭐ 
+Saya selalu bersemangat untuk menggabungkan kreativitas dan teknologi dalam setiap proyek, baik dalam pengembangan game, aplikasi, maupun solusi digital lainnya. Dengan pendekatan inovatif dan user-centric, saya siap membantu menciptakan produk yang tidak hanya fungsional tetapi juga memberikan dampak positif bagi penggunanya."

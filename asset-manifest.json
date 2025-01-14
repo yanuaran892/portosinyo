@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/portosinyo/static/css/main.53b3951d.css",
+    "main.js": "/portosinyo/static/js/main.17359d21.js",
+    "index.html": "/portosinyo/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.53b3951d.css",
+    "static/js/main.17359d21.js"
+  ]
+}

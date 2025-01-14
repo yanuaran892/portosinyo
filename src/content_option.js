@@ -1,4 +1,4 @@
-const logotext = "JOHN";
+const logotext = "SINYO";
 const meta = {
     title: "Yanuar Nur Alfian",
     description: "I’m Yanuar Nur Alfian game developer _ Full stack devloper,currently Mahasiswa In UNTAG SURABAYA",

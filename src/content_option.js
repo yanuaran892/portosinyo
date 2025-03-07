@@ -62,12 +62,21 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
+const dataportfolio = [
+    {
         img: "https://i.ibb.co.com/g34DfCM/mioooo.png",
         description: "Bikin Mobile Apps untuk Anak-Anak",
         link: "https://mioeduu.flutterflow.app/",
     },
+    {
+        img: "https://i.ibb.co.com/8g3H4y4k/image.png",
+        description: "Membuat Video 3D Pakai UNREAL ENGINE",
+        link: "https://www.instagram.com/reel/DE9UJFvSFk_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
+    
 ];
+
+
 
 const contactConfig = {
     YOUR_EMAIL: "yanuaran8@gmail.com",
